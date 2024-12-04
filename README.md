@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rushav Sthapit</h1>
-<h3 align="center">A recent graduate who loves tech!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushavvv&label=Profile%20views&color=0e75b6&style=flat" alt="rushavvv" /> </p>
 
-- 🔭 I’m currently working on [website development](rushav.com.np/home-page/)
+- 🔭 Currently studying Artificial Intelligence.
 
-- 🌱 I’m currently learning **website development, game development and learning css**
+- 🌱 I’m currently learning Data Structures and Database Designing
 
-- 👯 I’m looking to collaborate on **anything :)**
+- 👯 Open To Learning Anything
 
 - 📫 How to reach me **rusu.sthapit@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1mhithEYzurLUixHzUoc1j8vYEvsFAljnk_jkbDM9sAA/edit?usp=sharing](https://docs.google.com/document/d/1mhithEYzurLUixHzUoc1j8vYEvsFAljnk_jkbDM9sAA/edit?usp=sharing)
 
 - ⚡ Fun fact **its fun to do fun things**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
