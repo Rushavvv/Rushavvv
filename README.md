@@ -4,7 +4,7 @@
 
 - 🔭 Currently studying Artificial Intelligence.
 
-- 🌱 I’m currently learning Data Structures and Database Designing
+- 🌱 I’m currently learning Advance Data Structures and AI-Engineering
 
 - 👯 Open To Learning Anything
 
